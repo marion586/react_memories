@@ -1,0 +1,11 @@
+
+A- on server
+-npm init -y //initialize package.json
+-npm install body-parser //this one is going to enable us to send post request , cors //which is going to enable cross origin request , express // , mangoose models for our post , nodemon //  for us to reset the server manualy whenever we made a change
+
+
+B-on Client
+-npm install axios // we are gonna use axios for api requeset ,moment // it's library for working with time and date ,react-file-base64 //we 'll use this to convert our images, and finally we need redux and redux-thunk //redux-thunk is used for asyncronious action using redux
+
+
+https://cloud.mongodb.com/v2/60e71a2f8b552c015204636c#security/network/accessList
